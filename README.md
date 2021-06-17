@@ -12,3 +12,5 @@ https://jessangarcia.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jessenia Garcia
+
+### ©️2019 Run Buddy, Inc 
